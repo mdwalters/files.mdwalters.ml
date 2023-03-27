@@ -2,7 +2,7 @@
 // I don't even know if this works...
 #include <stdio.h>
 
-int main(let argc, char** argv) {
+int main() {
     printf("Hello, world!\n");
     return 0;
 }
